@@ -8,7 +8,7 @@ import os
 
 # 设置OpenAI API密钥
 openai.api_base = "https://api.chatanywhere.com.cn/v1"
-openai.api_key = 'sk-VijoLt7xC9eL5VGJCEXDq47s8BUUt3K4xR3nEOv5yKMhGc9t'
+openai.api_key = 'OPENAI_API_KEY'
 
 file_path = ""
 output_path = ""
