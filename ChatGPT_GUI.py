@@ -5,7 +5,7 @@ import openai
 
 # Set up OpenAI API key
 openai.api_base = "https://api.chatanywhere.com.cn/v1"
-openai.api_key = 'sk-VijoLt7xC9eL5VGJCEXDq47s8BUUt3K4xR3nEOv5yKMhGc9t'
+openai.api_key = 'OPENAI_API_KEY'
 
 
 # Function to send a message to the OpenAI chatbot model and return its response
